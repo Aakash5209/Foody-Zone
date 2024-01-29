@@ -4,9 +4,7 @@ The main motive is learning the Search and filtering concept in React.
 
 
 
-![Screenshot (339)](https://github.com/Aakash5209/Foody-Zone/assets/56769552/f033e525-5df1-4f68-abb8-57e315b9cc24)
 
-![Screenshot (338)](https://github.com/Aakash5209/Foody-Zone/assets/56769552/8f222103-0b02-4bcf-96e1-5188e04fefb4)
 
 ![Screenshot (337)](https://github.com/Aakash5209/Foody-Zone/assets/56769552/324846d8-1403-480d-9f2b-7c60badc8da0)
 
@@ -15,6 +13,12 @@ The main motive is learning the Search and filtering concept in React.
 ![Screenshot (335)](https://github.com/Aakash5209/Foody-Zone/assets/56769552/7859b80a-7f36-4a1d-bf17-36da75a11daa
 
 ![Screenshot (334)](https://github.com/Aakash5209/Foody-Zone/assets/56769552/3ddbaa29-da51-41b1-81db-09a6c59ec5e8)
+
+![Screenshot (339)](https://github.com/Aakash5209/Foody-Zone/assets/56769552/f033e525-5df1-4f68-abb8-57e315b9cc24)
+
+![Screenshot (338)](https://github.com/Aakash5209/Foody-Zone/assets/56769552/8f222103-0b02-4bcf-96e1-5188e04fefb4)
+
+
 
 
 # Description -
