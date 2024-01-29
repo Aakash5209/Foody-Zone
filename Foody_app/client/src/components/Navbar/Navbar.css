@@ -1,0 +1,32 @@
+.top_container{
+    height: 20vh;
+    width: 100%;
+    padding: 10px;
+    background: grey;
+    
+}
+
+input{
+    width: 180px;
+    height: 35px;
+    outline: none;
+    text-align:justify;
+    border-radius: 10px;
+    margin-right: 40px;
+    border: 2px solid #FF0909;
+    background: transparent;
+    color: white;
+
+}
+input::placeholder{
+    color: white;
+
+}
+.common_container{
+    height: 6vh;
+    width: 100%;
+    padding: 5px;
+    display: flex;
+    justify-content: space-between;
+        text-align: center;
+}

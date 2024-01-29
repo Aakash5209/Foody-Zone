@@ -1,0 +1,14 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+body{
+    margin: 0px;
+}
+#root{
+    height: 100%;
+    width: 100%;
+  
+
+}
